@@ -51,7 +51,7 @@ docker-compose up --build
 
 Then access:
 
-- **Frontend:** [http://localhost:5173](http://localhost:5173)
+- **Frontend:** [http://localhost:3000](http://localhost:3000)
 - **Backend API:** [http://localhost:8080/api/count](http://localhost:8080/api/count)
 - **Swagger UI:** [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
